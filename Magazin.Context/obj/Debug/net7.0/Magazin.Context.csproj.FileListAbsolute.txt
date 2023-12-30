@@ -1,0 +1,15 @@
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\bin\Debug\net7.0\Magazin.Context.deps.json
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\bin\Debug\net7.0\Magazin.Context.dll
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\bin\Debug\net7.0\Magazin.Context.pdb
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\bin\Debug\net7.0\Magazin.Context.Contracts.dll
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\bin\Debug\net7.0\Magazin.Context.Contracts.pdb
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\obj\Debug\net7.0\Magazin.Context.csproj.AssemblyReference.cache
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\obj\Debug\net7.0\Magazin.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\obj\Debug\net7.0\Magazin.Context.AssemblyInfoInputs.cache
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\obj\Debug\net7.0\Magazin.Context.AssemblyInfo.cs
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\obj\Debug\net7.0\Magazin.Context.csproj.CoreCompileInputs.cache
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\obj\Debug\net7.0\Magazin.Context.csproj.CopyComplete
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\obj\Debug\net7.0\Magazin.Context.dll
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\obj\Debug\net7.0\refint\Magazin.Context.dll
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\obj\Debug\net7.0\Magazin.Context.pdb
+C:\Users\361-19\Desktop\Magazin\Magazin.Context\obj\Debug\net7.0\ref\Magazin.Context.dll

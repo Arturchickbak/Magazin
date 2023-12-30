@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Magazin.Context/1.0.0": {
+        "dependencies": {
+          "Magazin.Context.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "Magazin.Context.dll": {}
+        }
+      },
+      "Magazin.Context.Contracts/1.0.0": {
+        "runtime": {
+          "Magazin.Context.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Magazin.Context/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Magazin.Context.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

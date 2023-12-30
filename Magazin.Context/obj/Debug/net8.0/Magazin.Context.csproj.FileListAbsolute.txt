@@ -1,0 +1,15 @@
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\obj\Debug\net8.0\Magazin.Context.csproj.AssemblyReference.cache
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\obj\Debug\net8.0\Magazin.Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\obj\Debug\net8.0\Magazin.Context.AssemblyInfoInputs.cache
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\obj\Debug\net8.0\Magazin.Context.AssemblyInfo.cs
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\obj\Debug\net8.0\Magazin.Context.csproj.CoreCompileInputs.cache
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\bin\Debug\net8.0\Magazin.Context.deps.json
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\bin\Debug\net8.0\Magazin.Context.dll
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\bin\Debug\net8.0\Magazin.Context.pdb
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\bin\Debug\net8.0\Magazin.Context.Contracts.dll
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\bin\Debug\net8.0\Magazin.Context.Contracts.pdb
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\obj\Debug\net8.0\Magazin.Context.csproj.CopyComplete
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\obj\Debug\net8.0\Magazin.Context.dll
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\obj\Debug\net8.0\refint\Magazin.Context.dll
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\obj\Debug\net8.0\Magazin.Context.pdb
+C:\Users\Павел\source\repos\Magazin\Magazin.Context\obj\Debug\net8.0\ref\Magazin.Context.dll
