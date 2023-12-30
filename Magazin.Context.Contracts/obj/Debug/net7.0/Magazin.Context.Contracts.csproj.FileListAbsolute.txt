@@ -1,0 +1,12 @@
+C:\Users\361-19\Desktop\Magazin\Magazin.Context.Contracts\bin\Debug\net7.0\Magazin.Context.Contracts.deps.json
+C:\Users\361-19\Desktop\Magazin\Magazin.Context.Contracts\bin\Debug\net7.0\Magazin.Context.Contracts.dll
+C:\Users\361-19\Desktop\Magazin\Magazin.Context.Contracts\bin\Debug\net7.0\Magazin.Context.Contracts.pdb
+C:\Users\361-19\Desktop\Magazin\Magazin.Context.Contracts\obj\Debug\net7.0\Magazin.Context.Contracts.csproj.AssemblyReference.cache
+C:\Users\361-19\Desktop\Magazin\Magazin.Context.Contracts\obj\Debug\net7.0\Magazin.Context.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\361-19\Desktop\Magazin\Magazin.Context.Contracts\obj\Debug\net7.0\Magazin.Context.Contracts.AssemblyInfoInputs.cache
+C:\Users\361-19\Desktop\Magazin\Magazin.Context.Contracts\obj\Debug\net7.0\Magazin.Context.Contracts.AssemblyInfo.cs
+C:\Users\361-19\Desktop\Magazin\Magazin.Context.Contracts\obj\Debug\net7.0\Magazin.Context.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\361-19\Desktop\Magazin\Magazin.Context.Contracts\obj\Debug\net7.0\Magazin.Context.Contracts.dll
+C:\Users\361-19\Desktop\Magazin\Magazin.Context.Contracts\obj\Debug\net7.0\refint\Magazin.Context.Contracts.dll
+C:\Users\361-19\Desktop\Magazin\Magazin.Context.Contracts\obj\Debug\net7.0\Magazin.Context.Contracts.pdb
+C:\Users\361-19\Desktop\Magazin\Magazin.Context.Contracts\obj\Debug\net7.0\ref\Magazin.Context.Contracts.dll
